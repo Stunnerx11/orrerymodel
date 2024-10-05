@@ -6,20 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stunnerx11/orrerymodel.git"
+  },
   "keywords": [],
-  "author": "vishva",
+  "author": "",
   "license": "ISC",
-
-
+  "bugs": {
+    "url": "https://github.com/bitterstoat/orrery/issues"
+  },
+  "homepage": "https://github.com/Stunnerx11/orrerymodelreadme",
   "devDependencies": {
     "jsdoc": "^3.6.10",
-    "three": "^0.156.1",
+    "three": "^0.156",
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "@tweenjs/tween.js": "^16.6.0",
     "jquery": "^3.7.1",
-    "jquery-ui": "^1.13.2"
+    "jquery-ui": "^1.13.2",
+    "@tweenjs/tween.js": "^16.6.0"
   }
 }
