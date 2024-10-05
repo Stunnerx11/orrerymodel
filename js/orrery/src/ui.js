@@ -1,5 +1,5 @@
 import * as ORR from "./init.js";
-import * as TWEEN from "./tween/tween.esm.js";
+import * as TWEEN from ".js/tween/tween.esm.js";
 import $ from "https://code.jquery.com/jquery-3.6.0.min.js";
 
 const planetScale = {f: 1.0};
